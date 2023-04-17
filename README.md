@@ -2,11 +2,11 @@
 
 Bonjour à tous,
 
-Si vous êtes ici, c'est que vous avez consulté ma candidature ou mon profil professionnelle.
+Si vous êtes ici, c'est que vous avez consulté ma candidature ou mon profil professionnel.
 
-Ici vous trouverez tous mes projets personnel que j'ai pu réaliser lors de mon apprentissage à l'école.
+Ici, vous trouverez tous les projets personnels que j'ai réalisés lors de mon apprentissage à l'école.
 
-Bonne lecture et merci d'être passé !
+Bonne lecture et merci d'être passé(e) !
 
-Bien Cordialement,
+Bien cordialement,
 Sopland
