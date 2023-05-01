@@ -1,1 +1,93 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ma page de projets GitHub</title>
+    <style>
+      /* Styles pour le corps de la page */
+      body {
+        background-color: #000000;
+        color: #ffffff;
+        font-family: 'Verdana', sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      
+      /* Styles pour l'en-tête de la page */
+      header {
+        background-color: #ff0000;
+        height: 80px;
+        text-align: center;
+        padding-top: 20px;
+        margin-bottom: 20px;
+      }
+      
+      /* Styles pour le titre de la page */
+      h1 {
+        font-size: 36px;
+        margin: 0;
+      }
+      
+      /* Styles pour la zone des projets */
+      .projects {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      
+      /* Styles pour chaque projet */
+      .project {
+        background-color: #ffffff;
+        border: 1px solid #000000;
+        border-radius: 5px;
+        margin: 10px;
+        padding: 20px;
+        width: 300px;
+      }
+      
+      /* Styles pour le lien vers le projet */
+      .project a {
+        color: #0000ff;
+        text-decoration: none;
+      }
+      
+      /* Styles pour l'image du projet */
+      .project img {
+        border-radius: 5px;
+        max-width: 100%;
+      }
+      
+      /* Styles pour la légende de l'image du projet */
+      .project figcaption {
+        font-size: 14px;
+        margin-top: 10px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Mes projets GitHub</h1>
+    </header>
+    
+    <div class="projects">
+      <div class="project">
+        <a href="https://github.com/monprojet1">
+          <img src="https://placekitten.com/300/200" alt="Mon projet 1">
+        </a>
+        <figcaption>Mon projet 1</figcaption>
+      </div>
+      <div class="project">
+        <a href="https://github.com/monprojet2">
+          <img src="https://placekitten.com/300/200" alt="Mon projet 2">
+        </a>
+        <figcaption>Mon projet 2</figcaption>
+      </div>
+      <div class="project">
+        <a href="https://github.com/monprojet3">
+          <img src="https://placekitten.com/300/200" alt="Mon projet 3">
+        </a>
+        <figcaption>Mon projet 3</figcaption>
+      </div>
+    </div>
+  </body>
+</html>
