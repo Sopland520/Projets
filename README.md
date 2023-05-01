@@ -13,3 +13,7 @@ Bonne lecture et merci d'être passé(e) !
 Bien cordialement,
 
 Sopland
+
+
+
+Profil LinkedIn : https://www.linkedin.com/in/christian-xiang-2620131b4/
